@@ -17,6 +17,8 @@ Ecrire en Mvc une plateforme web qui permet de gerer une liste de taches a faire
 
 * Les taches devront pouvoir etre mit dans deux états **a faire/en cours** - **faite/validé**
 
+* Les taches devront pouvoir etre créer et supprimer
+
 * utilisation des differentes notions aborder : ex(**variables tableaux fonctions boucle conditions class**  ect ect)
 
 
