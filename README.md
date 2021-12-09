@@ -1,7 +1,7 @@
 # TODOLIST-PHP
 TP fin de module todolist en php
 
-**DEPOT A FORKER ! **
+**DEPOT A FORKER !**
 
 **METTRE VOS CODES DEDANS**
 
