@@ -1,6 +1,11 @@
 # TODOLIST-PHP
 TP fin de module todolist en php
 
+**DEPOT A FORKER ! **
+
+**METTRE VOS CODES DEDANS**
+
+**FAIRE UNE PULL REQUEST QUAND C'EST FINIT**
 
 ## objectif
 
@@ -10,7 +15,7 @@ Ecrire en Mvc une plateforme web qui permet de gerer une liste de taches a faire
 
 * impérativement en MVC et en PHP autant que possible
 
-* Les taches devront pouvoir etre mit dans deux états **a faire/en cours** **faite/validé**
+* Les taches devront pouvoir etre mit dans deux états **a faire/en cours** - **faite/validé**
 
 * utilisation des differentes notions aborder : ex(**variables tableaux fonctions boucle conditions class**  ect ect)
 
